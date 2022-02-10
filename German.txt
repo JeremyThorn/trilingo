@@ -1,0 +1,31 @@
+Die Milch,The Milk
+Das Wasser,The Water
+Trinken,To drink
+Der Wein,The Wine
+Wien,Vienna
+Der Tee,the Tea
+Teuer,Expensive
+Billig,Cheap
+Essen,To eat
+Deutsch,German
+Der Mann,The Man
+Die Frau,The Woman
+Der Junge,The Boy
+Das Maedchen,The Girl
+Tom,Tom
+Jeremy,Jeremy
+Der Teller,The Plate
+Der Tisch,The Table
+Der Teppich,The Carpet
+Das Wort,The Word
+Nichts,Nothing
+Alles,Everything
+Die Treppe,The Stairs
+Dunkel,Dark
+Der Schatten,The Shadow
+Die Eule,The Owl
+Der Kellner,The Waiter
+Die Wurst,The Sausage
+Der Sklave,The Slave
+Die Sklavin,The Slave
+Wieder,Again
