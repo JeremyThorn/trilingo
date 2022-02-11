@@ -1,6 +1,6 @@
 import re
 
-ofile = open("nouns.txt","w")
+ofile = open("nouns_all.txt","w")
 file = open("../all.txt","r")
 lines = file.readlines()
 for i in lines:
@@ -42,6 +42,6 @@ for i in lines:
             english = words[1]
         else:
             english = "N/A"
-        ofile.write(german+","+gender+","+english+"\n")
+        ofile.write(german.lower().strip(" ")+"\t"+gender.lower().strip(" ")+"\t"+english.lower().strip(" ")+"\n")
 file.close()
 ofile.close()
